@@ -17,6 +17,7 @@
 		CB045DD41E67BCA900CF95E1 /* StackDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CB045DD31E67BCA900CF95E1 /* StackDemoUITests.m */; };
 		CB045DE31E67BCCB00CF95E1 /* Stack.m in Sources */ = {isa = PBXBuildFile; fileRef = CB045DE21E67BCCB00CF95E1 /* Stack.m */; };
 		CB045DE61E67BF0200CF95E1 /* Queue.m in Sources */ = {isa = PBXBuildFile; fileRef = CB045DE51E67BF0200CF95E1 /* Queue.m */; };
+		CB382BAF1E6FF981002E2B4E /* TreeNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CB382BAE1E6FF981002E2B4E /* TreeNode.m */; };
 		CBDC3D0F1E6EB98700A4992D /* DiyArray.m in Sources */ = {isa = PBXBuildFile; fileRef = CBDC3D0C1E6EB98700A4992D /* DiyArray.m */; };
 		CBDC3D101E6EB98700A4992D /* Node.m in Sources */ = {isa = PBXBuildFile; fileRef = CBDC3D0E1E6EB98700A4992D /* Node.m */; };
 /* End PBXBuildFile section */
@@ -59,6 +60,8 @@
 		CB045DE21E67BCCB00CF95E1 /* Stack.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Stack.m; sourceTree = "<group>"; };
 		CB045DE41E67BF0200CF95E1 /* Queue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Queue.h; sourceTree = "<group>"; };
 		CB045DE51E67BF0200CF95E1 /* Queue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Queue.m; sourceTree = "<group>"; };
+		CB382BAD1E6FF981002E2B4E /* TreeNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TreeNode.h; sourceTree = "<group>"; };
+		CB382BAE1E6FF981002E2B4E /* TreeNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TreeNode.m; sourceTree = "<group>"; };
 		CBDC3D0B1E6EB98700A4992D /* DiyArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiyArray.h; sourceTree = "<group>"; };
 		CBDC3D0C1E6EB98700A4992D /* DiyArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiyArray.m; sourceTree = "<group>"; };
 		CBDC3D0D1E6EB98700A4992D /* Node.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
@@ -125,6 +128,8 @@
 				CB045DE21E67BCCB00CF95E1 /* Stack.m */,
 				CB045DE41E67BF0200CF95E1 /* Queue.h */,
 				CB045DE51E67BF0200CF95E1 /* Queue.m */,
+				CB382BAD1E6FF981002E2B4E /* TreeNode.h */,
+				CB382BAE1E6FF981002E2B4E /* TreeNode.m */,
 				CB045DB71E67BCA900CF95E1 /* Main.storyboard */,
 				CB045DBA1E67BCA900CF95E1 /* Assets.xcassets */,
 				CB045DBC1E67BCA900CF95E1 /* LaunchScreen.storyboard */,
@@ -294,6 +299,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB045DE61E67BF0200CF95E1 /* Queue.m in Sources */,
+				CB382BAF1E6FF981002E2B4E /* TreeNode.m in Sources */,
 				CB045DE31E67BCCB00CF95E1 /* Stack.m in Sources */,
 				CBDC3D101E6EB98700A4992D /* Node.m in Sources */,
 				CBDC3D0F1E6EB98700A4992D /* DiyArray.m in Sources */,
